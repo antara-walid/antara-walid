@@ -12,7 +12,8 @@ I'm Walid, a software engineering student 👨‍🎓 , I'm interested in web de
   <img align="left" alt="Anas LinkedIn" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
 </a>
 
-<br/>
+<br>
+
 ---
 
 ### Languages and Tools:
