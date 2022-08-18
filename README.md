@@ -1,7 +1,7 @@
 
 ### Hello world  👋
 
-I'm Walid, a software engineering student 👨‍🎓 , I'm interested in software engineering,and distibuted systems.
+I'm Walid, a software engineering student 👨‍🎓 , I'm interested in software engineering, and distibuted systems.
 
 - 🌱 I’m currently learning Spring Framework
 ---
